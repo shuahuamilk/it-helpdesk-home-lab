@@ -46,8 +46,7 @@ flowchart LR
 
 - [`docs/01-lab-build-guide.md`](docs/01-lab-build-guide.md) — complete build procedure
 - [`docs/02-troubleshooting.md`](docs/02-troubleshooting.md) — issue log and common fixes
-- [`docs/03-screenshot-checklist.md`](docs/03-screenshot-checklist.md) — required evidence and filenames
-- [`docs/04-project-reflection.md`](docs/04-project-reflection.md) — portfolio reflection template
+- [`docs/04-project-reflection.md`](docs/03-project-reflection.md) — portfolio reflection template
 - [`scripts/Create-LabObjects.ps1`](scripts/Create-LabObjects.ps1) — optional AD object creation script
 - [`scripts/Verify-Lab.ps1`](scripts/Verify-Lab.ps1) — validation and evidence report
 - [`PROJECT-CHECKLIST.md`](PROJECT-CHECKLIST.md) — completion tracker
