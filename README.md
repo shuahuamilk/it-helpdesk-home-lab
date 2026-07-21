@@ -70,8 +70,8 @@ helpdesk.test
 | User | Username | Department |
 |---|---|---|
 | Alice Johnson | `ajohnson` | HR |
-| Bob Smith | `bsmith` | Sales |
-| Carol Lee | `clee` | IT |
+| Bailey Smith | `bsmith` | Sales |
+| Charles Lee | `clee` | IT |
 
 Never commit real credentials, ISO files, VM disks, recovery keys, or exported production policies.
 
