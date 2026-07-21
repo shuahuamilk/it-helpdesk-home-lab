@@ -94,7 +94,7 @@ Never commit real credentials, ISO files, VM disks, recovery keys, or exported p
 
 Place evidence in `evidence/screenshots/` using the filenames in the screenshot checklist.
 
-## Resume-ready summary
+## Summary
 
 > Built an isolated Windows domain lab in Oracle VirtualBox using Windows Server and Windows 11. Configured AD DS and DNS, created an OU hierarchy and user accounts, joined a client PC to the domain, performed password resets and account unlocks, and deployed and validated Group Policies. Documented the implementation with screenshots and troubleshooting notes in GitHub.
 
